@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Thiago Florentino, and I'm from Brazil (🇧🇷). I’m currently learning HTML, CSS, JavaScript. Here you will find the progression of my learning!
+
+
 <!--
 **Thiagomtr/thiagomtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
