@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thiago Florentino, and I'm from Brazil (🇧🇷). I’m currently learning HTML, CSS, JavaScript. Here you will find the progression of my learning!
+My name is Thiago Florentino, and I'm from Brazil. I’m currently learning HTML, CSS and JavaScript. Here you will find the progression of my learning!
 
 
 <!--
